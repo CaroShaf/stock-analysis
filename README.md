@@ -27,13 +27,13 @@ The images referenced above show the refactored execution times for 2017 and 201
 below the refactored times as a comparison.
 
 #### Execution times
-Refactored 2017 .76
+Refactored 2017 -  .76 s
 
-Original 2017 .79
+Original 2017 - .79 s
 
-Refactored 2018 .75
+Refactored 2018 - .75 s
 
-Original 2018 .67
+Original 2018 - .67 s
 
 The primary modification of the basic script was to include storage of data in arrays before performing calculations and outputing results, so as to loop through the
 data set in a more systematic method, requiring fewer loops.  As predicted the change in script affects the execution times, but not always in predictable ways.  It
