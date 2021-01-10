@@ -5,7 +5,7 @@ Steve loved the Excel workbook that we provided him for a dozen green stocks to 
 VBA macro to present key elements of his desired stocks in a user-friendly, easy to read format.  To expand on this for future analysis and to add other stock 
 tickers, we optimized the code to easily accommodate additional stock tickers and years of data.  Furthermore, the code performs more efficiently and thus can
 accommodate much more data and still run efficiently.  The data used in our analysis was provided by Freddy Hayes Consultants.  We can obtain more tickers and more 
-# years of data from this same source to expand Steve's analysis in the future.
+years of data from this same source to expand Steve's analysis in the future.
 
 ##RESULTS
 
