@@ -10,6 +10,9 @@
 #
 #2017 & 2018 Stock Performance
 
+[2017 Stock Performance & Execution Time] (/resources/VBA_Challenge_2017.png)
+[2018 Stock Performance & Execution Time] (/resources/VBA_Challenge_2018.png)
+
 #Refactored Script
 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the 
