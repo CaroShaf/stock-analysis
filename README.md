@@ -1,6 +1,6 @@
 # VBA GREEN STOCK ANALYSIS & REFACTORING
 
-## Overview of Project: 
+## Overview of Project
 Steve loved the Excel workbook that we provided him for a dozen green stocks to analyze their performance.  We were able to provide him with a 
 VBA macro to present key elements of his desired stocks in a user-friendly, easy to read format.  To expand on this for future analysis and to add other stock 
 tickers, we optimized the code to easily accommodate additional stock tickers and years of data.  Furthermore, the code performs more efficiently and thus can
