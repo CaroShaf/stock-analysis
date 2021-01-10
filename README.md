@@ -16,7 +16,7 @@ years of data from this same source to expand Steve's analysis in the future.
 [2018 Stock Performance & Execution Time] (https://github.com/CaroShaf/stock-analysis/blob/master/Resources/VBA_Challenge_2018.PNG)
 
 Looking at the stock performance of 2017, it is easy to see why Steve's parents were interested in DQ stocks, which had an almost 200% return.  
-In 2018, however, they were down about 63%.  It may worthwhile to see if there was an initial excitement for new stock options or a new product in 2017 with
+In 2018, however, they were down about 63%.  It may be worthwhile to see if there was an initial excitement for new stock options or a new product in 2017 with
 some sort of economic challenge in 2018 that caused the sharp decline.  Overall, all but two of the dozen green stocks examined performed poorly between 2017 and
 2018.  The companies that continued to have positive returns were ENPH and RUN.  Steve may want to look at more years of data for all of the stocks before
 recommending DQ or even ENPH and RUN.
