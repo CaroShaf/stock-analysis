@@ -12,6 +12,7 @@ years of data from this same source to expand Steve's analysis in the future.
 ### 2017 & 2018 Stock Performance
 
 [2017 Stock Performance & Execution Time] (/resources/VBA_Challenge_2017.png)
+
 [2018 Stock Performance & Execution Time] (/resources/VBA_Challenge_2018.png)
 
 ### Refactored Script
